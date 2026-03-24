@@ -1,2 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+readme.md
+git status
+git add .
+git commit -m "Criação de arquivo inicial"
+git push
